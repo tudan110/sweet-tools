@@ -54,7 +54,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "ivew-side-menu-search-chg": "^1.0.5",
     "view-design": "^4.0.2",
     "vue": "^2.5.16",
